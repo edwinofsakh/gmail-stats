@@ -1,0 +1,27 @@
+{
+  "name": "gmail-stats",
+  "version": "0.0.1",
+  "description": "Tool for calculation email statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinofsakh/gmail-stats.git"
+  },
+  "keywords": [
+    "email",
+    "gmail",
+    "statistics"
+  ],
+  "author": "Sergey Panpurin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwinofsakh/gmail-stats/issues"
+  },
+  "homepage": "https://github.com/edwinofsakh/gmail-stats#readme",
+  "dependencies": {
+    "googleapis": "^72.0.0"
+  }
+}
